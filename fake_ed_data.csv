@@ -1,0 +1,658 @@
+Student ID,Gender,Race,Current Grade Level,Attendance Rate,At-risk of Dropping Out,Free-Reduced Lunch,Primary Language Spoken in the Home,Lives with Parent/Guardian,Promotion to Next Grade,SEL Rating,Reading Level,Receiving Case Management,Average Grade Percentage
+1,Male,White,1st Grade,95%,No,Yes,English,Yes,Promoted,4,Below Grade,No,85
+2,Female,Black,2nd Grade,85%,Yes,Yes,English,No,Promoted,2,On Grade,Yes,72
+3,Male,Hispanic,3rd Grade,90%,No,Yes,Spanish,Yes,Promoted,3,Above Grade,No,80
+4,Female,Asian,4th Grade,92%,No,No,English,Yes,Promoted,5,On Grade,Yes,90
+5,Male,Native American,5th Grade,80%,Yes,Yes,English,No,Retained,2,Below Grade,Yes,68
+6,Female,White,6th Grade,97%,No,Yes,English,Yes,Promoted,4,Above Grade,No,87
+7,Male,Black,7th Grade,88%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,75
+8,Female,Hispanic,8th Grade,93%,No,No,Spanish,No,Promoted,4,Below Grade,Yes,82
+9,Male,White,9th Grade,78%,Yes,Yes,English,No,Retained,2,On Grade,Yes,70
+10,Female,Asian,10th Grade,96%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,93
+11,Male,Black,11th Grade,85%,Yes,Yes,English,Yes,Promoted,3,Below Grade,No,74
+12,Female,Hispanic,12th Grade,92%,No,Yes,Spanish,Yes,Promoted,4,On Grade,Yes,85
+13,Male,White,1st Grade,87%,No,Yes,English,Yes,Promoted,4,On Grade,Yes,83
+14,Female,Black,2nd Grade,95%,No,No,English,Yes,Promoted,5,Below Grade,No,89
+15,Male,Hispanic,3rd Grade,90%,No,Yes,Spanish,Yes,Promoted,3,Above Grade,Yes,79
+16,Female,Asian,4th Grade,92%,No,Yes,English,Yes,Promoted,4,On Grade,No,85
+17,Male,Native American,5th Grade,75%,Yes,Yes,English,Yes,Retained,2,On Grade,Yes,65
+18,Female,White,6th Grade,98%,No,Yes,English,Yes,Promoted,5,On Grade,Yes,92
+19,Male,Black,7th Grade,88%,Yes,Yes,English,Yes,Promoted,3,Above Grade,Yes,76
+20,Female,Hispanic,8th Grade,95%,No,Yes,Spanish,Yes,Promoted,4,On Grade,Yes,88
+21,Male,White,9th Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,Yes,68
+22,Female,Asian,10th Grade,98%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,95
+23,Male,Black,11th Grade,85%,Yes,Yes,English,Yes,Promoted,3,Below Grade,Yes,73
+24,Male,Hispanic,12th Grade,91%,No,Yes,Spanish,Yes,Promoted,4,On Grade,Yes,84
+25,Female,White,1st Grade,85%,No,Yes,English,Yes,Promoted,3,On Grade,No,80
+26,Male,Black,2nd Grade,90%,No,Yes,English,Yes,Promoted,4,Above Grade,No,86
+27,Female,Hispanic,3rd Grade,92%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+28,Male,White,4th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,72
+29,Female,Asian,5th Grade,96%,No,Yes,English,Yes,Promoted,5,On Grade,Yes,93
+30,Male,Black,6th Grade,85%,Yes,Yes,English,Yes,Promoted,3,Below Grade,Yes,74
+31,Female,Hispanic,7th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,On Grade,Yes,86
+32,Male,White,8th Grade,80%,Yes,Yes,English,Yes,Retained,2,On Grade,No,69
+33,Female,Black,9th Grade,97%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,92
+34,Male,Hispanic,10th Grade,88%,Yes,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,79
+35,Female,White,11th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,87
+36,Male,Asian,12th Grade,85%,Yes,Yes,English,Yes,Promoted,3,Below Grade,No,73
+37,Female,Black,1st Grade,92%,No,Yes,English,Yes,Promoted,4,On Grade,Yes,87
+38,Male,Hispanic,2nd Grade,85%,No,Yes,Spanish,Yes,Promoted,3,Below Grade,No,80
+39,Female,White,3rd Grade,90%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,86
+40,Male,Black,4th Grade,92%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,91
+41,Female,Hispanic,5th Grade,78%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,71
+42,Male,White,6th Grade,96%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,94
+43,Female,Asian,7th Grade,85%,Yes,Yes,English,Yes,Promoted,3,Below Grade,Yes,75
+44,Male,Black,8th Grade,93%,No,Yes,English,Yes,Promoted,4,On Grade,Yes,87
+45,Female,Hispanic,9th Grade,80%,Yes,Yes,Spanish,Yes,Retained,2,On Grade,No,70
+46,Male,White,10th Grade,97%,No,Yes,English,Yes,Promoted,5,Above Grade,Yes,95
+47,Female,Black,11th Grade,88%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,80
+48,Male,Hispanic,12th Grade,92%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+49,Female,White,1st Grade,78%,No,Yes,English,Yes,Promoted,2,Below Grade,No,70
+50,Male,Black,2nd Grade,96%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+51,Female,Hispanic,3rd Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+52,Male,White,4th Grade,93%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,83
+53,Female,Asian,5th Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,70
+54,Male,Black,6th Grade,97%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,91
+55,Female,Hispanic,7th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+56,Male,White,8th Grade,92%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,84
+57,Female,Black,9th Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,69
+58,Male,Hispanic,10th Grade,96%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+59,Female,White,11th Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+60,Male,Asian,12th Grade,93%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,84
+61,Female,Black,1st Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,No,72
+62,Male,Hispanic,2nd Grade,97%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,91
+63,Female,White,3rd Grade,88%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,76
+64,Male,Black,4th Grade,92%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,83
+65,Female,Hispanic,5th Grade,78%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,68
+66,Male,White,6th Grade,96%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,90
+67,Female,Asian,7th Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+68,Male,Black,8th Grade,93%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+69,Female,Hispanic,9th Grade,80%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+70,Male,White,10th Grade,97%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,90
+71,Female,Black,11th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+72,Male,Hispanic,12th Grade,92%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,83
+73,Female,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+74,Male,Black,2nd Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,87
+75,Female,Hispanic,3rd Grade,80%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,71
+76,Male,White,4th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+77,Female,Asian,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+78,Male,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+79,Female,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+80,Male,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+81,Female,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+82,Male,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+83,Female,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+84,Male,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+85,Female,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+86,Male,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+87,Female,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+88,Male,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+89,Female,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+90,Male,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+91,Female,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+92,Male,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+93,Female,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+94,Male,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+95,Female,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+96,Male,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+97,Female,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+98,Male,Black,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+99,Female,Hispanic,3rd Grade,80%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,71
+100,Male,White,4th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+101,Female,Asian,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+102,Male,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+103,Female,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+104,Male,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+105,Female,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+106,Male,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+107,Female,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+108,Male,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+109,Female,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+110,Male,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+111,Female,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+112,Male,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+113,Female,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+114,Male,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+115,Female,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+116,Male,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+117,Female,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+118,Male,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+119,Female,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+120,Male,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+121,Female,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+122,Male,Black,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+123,Female,Hispanic,3rd Grade,80%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,71
+125,Female,Asian,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+126,Male,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+127,Female,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+128,Male,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+129,Female,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+130,Male,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+131,Female,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+132,Male,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+133,Female,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+134,Male,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+135,Female,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+136,Male,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+137,Female,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+138,Male,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+139,Female,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+140,Male,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+141,Female,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+142,Male,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+143,Female,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+144,Male,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+145,Female,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+146,Male,Black,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+147,Female,Hispanic,3rd Grade,80%,Yes,Yes,Spanish,Yes,Retained,2,Below Grade,No,71
+148,Male,White,4th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+149,Female,Asian,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+150,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+151,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+152,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+153,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+154,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+155,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+156,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+157,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+158,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+159,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+160,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+161,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+162,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+163,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+164,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+165,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+166,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+167,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+168,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+169,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+170,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+171,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+172,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+173,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+174,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+175,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+176,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+177,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+178,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+179,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+180,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+181,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+182,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+183,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+184,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+185,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+186,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+187,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+188,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+189,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+190,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+191,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+192,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+193,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+194,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+195,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+196,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+197,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+198,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+199,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+200,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+201,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+202,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+203,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+204,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+205,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+206,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+207,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+208,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+209,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+210,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+211,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+212,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+213,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+214,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+215,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+216,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+217,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+218,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+219,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+220,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+221,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+222,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+223,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+224,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+225,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+226,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+227,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+228,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+229,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+230,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+231,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+232,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+233,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+234,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+235,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+236,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+237,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+238,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+239,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+240,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+241,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+242,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+243,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+244,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+245,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+246,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+247,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+248,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+249,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+250,Female,Asian,12th Grade,97%,No,No,English,Yes,Promoted,3,On Grade,Yes,85
+251,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+252,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+253,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+254,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+255,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+256,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+257,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+258,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+259,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+260,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+261,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+262,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+263,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+264,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+265,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+266,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+267,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+268,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+269,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+270,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+271,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+272,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+273,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+274,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+275,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+276,Female,Hispanic,2nd Grade,92%,Yes,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,88
+277,Male,White,3rd Grade,78%,No,Yes,English,Yes,Retained,2,Below Grade,No,70
+278,Female,Black,4th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+279,Male,Hispanic,5th Grade,85%,Yes,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,78
+280,Female,White,6th Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+281,Male,Asian,7th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+282,Female,Black,8th Grade,97%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+283,Male,Hispanic,9th Grade,88%,No,Yes,Spanish,Yes,Promoted,2,Below Grade,Yes,77
+284,Female,White,10th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+285,Male,Black,11th Grade,78%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,69
+286,Female,Hispanic,12th Grade,96%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+287,Male,White,1st Grade,85%,No,Yes,English,Yes,Promoted,2,Below Grade,No,76
+288,Female,Asian,2nd Grade,93%,No,Yes,English,Yes,Promoted,4,Above Grade,Yes,89
+289,Male,Black,3rd Grade,80%,Yes,Yes,English,Yes,Retained,2,Below Grade,No,71
+290,Female,Hispanic,4th Grade,97%,No,Yes,Spanish,Yes,Promoted,3,On Grade,Yes,85
+291,Male,White,5th Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,77
+292,Female,Black,6th Grade,92%,Yes,Yes,English,Yes,Promoted,4,Above Grade,Yes,88
+293,Male,Hispanic,7th Grade,78%,No,Yes,Spanish,Yes,Retained,2,Below Grade,No,70
+294,Female,White,8th Grade,96%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+295,Male,Black,9th Grade,85%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,78
+296,Female,Hispanic,10th Grade,93%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,Yes,89
+297,Male,White,11th Grade,80%,No,Yes,English,Yes,Promoted,2,Below Grade,Yes,72
+298,Female,Asian,12th Grade,97%,No,Yes,English,Yes,Promoted,3,On Grade,Yes,85
+299,Male,Black,1st Grade,88%,No,Yes,English,Yes,Promoted,2,Below Grade,No,77
+1002,Male,African American,10th Grade,95%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,92%
+1003,Female,Caucasian,11th Grade,80%,Yes,Yes,English,Yes,Retained,3.2,Below Grade,Yes,78%
+1004,Male,Hispanic,12th Grade,92%,No,Yes,English,Yes,Promoted,4,Above Grade,No,89%
+1005,Female,Asian,9th Grade,98%,No,No,English,Yes,Promoted,3.9,On Grade,No,95%
+1006,Male,African American,10th Grade,70%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,75%
+1007,Female,Caucasian,11th Grade,88%,No,No,English,No,Promoted,3.7,On Grade,Yes,84%
+1008,Male,Hispanic,12th Grade,95%,No,No,English,Yes,Promoted,3.9,On Grade,No,91%
+1009,Female,Asian,9th Grade,90%,No,Yes,English,Yes,Promoted,3.5,On Grade,No,87%
+1010,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Retained,3,Below Grade,Yes,78%
+1011,Female,Caucasian,11th Grade,93%,No,Yes,English,Yes,Promoted,3.8,Above Grade,No,88%
+1012,Male,Hispanic,12th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,70%
+1013,Female,Asian,9th Grade,100%,No,No,English,Yes,Promoted,4,Above Grade,Yes,95%
+1014,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Retained,2.9,Below Grade,Yes,75%
+1015,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,84%
+1016,Male,Hispanic,12th Grade,95%,No,No,English,Yes,Promoted,3.9,Above Grade,No,91%
+1017,Female,Asian,9th Grade,80%,Yes,Yes,English,Yes,Retained,2.7,Below Grade,Yes,72%
+1018,Male,African American,10th Grade,96%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,88%
+1019,Female,Caucasian,11th Grade,90%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1020,Male,Hispanic,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,Above Grade,Yes,85%
+1021,Female,Asian,9th Grade,85%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,75%
+1022,Male,African American,10th Grade,90%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1023,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,90%
+1024,Male,Hispanic,12th Grade,75%,Yes,Yes,Spanish,Yes,Retained,2.5,Below Grade,Yes,70%
+1025,Female,Asian,9th Grade,98%,No,No,English,Yes,Promoted,3.8,On Grade,No,95%
+1026,Male,African American,10th Grade,70%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,75%
+1027,Female,Caucasian,11th Grade,80%,Yes,Yes,English,Yes,Retained,3.2,Below Grade,Yes,78%
+1028,Male,Hispanic,12th Grade,92%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,No,89%
+1029,Female,Asian,9th Grade,90%,No,Yes,English,Yes,Promoted,3.5,On Grade,No,87%
+1030,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Retained,3,Below Grade,Yes,78%
+1031,Female,Caucasian,11th Grade,93%,No,Yes,English,Yes,Promoted,3.8,Above Grade,No,88%
+1032,Male,Hispanic,12th Grade,75%,Yes,Yes,Spanish,Yes,Retained,2.5,Below Grade,Yes,70%
+1033,Female,Asian,9th Grade,100%,No,No,English,Yes,Promoted,4,Above Grade,Yes,95%
+1034,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Retained,2.9,Below Grade,Yes,75%
+1035,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,84%
+1036,Male,Hispanic,12th Grade,95%,No,No,Spanish,Yes,Promoted,3.9,Above Grade,No,91%
+1037,Female,Asian,9th Grade,80%,Yes,Yes,English,Yes,Retained,2.7,Below Grade,Yes,72%
+1038,Male,African American,10th Grade,96%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,88%
+1039,Female,Caucasian,11th Grade,90%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1040,Male,Hispanic,12th Grade,88%,No,Yes,Spanish,Yes,Promoted,3.5,Above Grade,Yes,85%
+1041,Female,Asian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.7,On Grade,No,90%
+1042,Male,African American,10th Grade,92%,No,Yes,English,Yes,Promoted,3.8,Above Grade,No,89%
+1043,Female,Caucasian,11th Grade,80%,Yes,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1044,Male,Hispanic,12th Grade,98%,No,Yes,Spanish,Yes,Promoted,4,Above Grade,No,95%
+1045,Female,Asian,9th Grade,85%,Yes,Yes,English,Yes,Promoted,3.2,Below Grade,Yes,75%
+1046,Male,African American,10th Grade,90%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1047,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,91%
+1048,Male,Hispanic,12th Grade,75%,Yes,Yes,Spanish,Yes,Promoted,3,Below Grade,Yes,70%
+1049,Female,Asian,9th Grade,98%,No,No,English,Yes,Promoted,3.8,On Grade,No,95%
+1050,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.4,On Grade,Yes,80%
+1051,Female,Caucasian,11th Grade,93%,No,Yes,English,Yes,Promoted,3.8,Above Grade,No,89%
+1052,Male,Hispanic,12th Grade,75%,Yes,Yes,Spanish,Yes,Promoted,2.5,Below Grade,Yes,70%
+1053,Female,Asian,9th Grade,100%,No,No,English,Yes,Promoted,4,Above Grade,Yes,95%
+1054,Male,African American,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.5,On Grade,Yes,82%
+1055,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,87%
+1056,Male,Hispanic,12th Grade,95%,No,No,Spanish,Yes,Promoted,3.9,Above Grade,No,93%
+1057,Female,Asian,9th Grade,80%,Yes,Yes,English,Yes,Promoted,2.7,Below Grade,Yes,72%
+1058,Male,African American,10th Grade,96%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,89%
+1059,Female,Caucasian,11th Grade,90%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,88%
+1060,Male,Hispanic,12th Grade,88%,No,Yes,Spanish,Yes,Promoted,3.5,Above Grade,Yes,86%
+1061,Female,Hispanic,9th Grade,92%,No,Yes,Spanish,Yes,Promoted,3.5,On Grade,Yes,87%
+1062,Male,Asian,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.2,Below Grade,Yes,78%
+1063,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.8,On Grade,No,91%
+1064,Male,African American,12th Grade,80%,Yes,Yes,English,Yes,Promoted,3.2,Below Grade,Yes,75%
+1065,Female,Hispanic,9th Grade,98%,No,No,Spanish,Yes,Promoted,3.9,Above Grade,Yes,93%
+1066,Male,Asian,10th Grade,93%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,89%
+1067,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,68%
+1068,Male,African American,12th Grade,85%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,82%
+1069,Female,Hispanic,9th Grade,95%,No,Yes,Spanish,Yes,Promoted,3.6,On Grade,No,89%
+1070,Male,Asian,10th Grade,90%,Yes,Yes,English,Yes,Promoted,3.4,On Grade,Yes,85%
+1071,Female,Caucasian,11th Grade,93%,No,Yes,English,Yes,Promoted,3.8,Above Grade,No,91%
+1072,Male,African American,12th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,70%
+1073,Female,Hispanic,9th Grade,100%,No,No,Spanish,Yes,Promoted,4,Above Grade,Yes,95%
+1074,Male,Asian,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.5,On Grade,Yes,82%
+1075,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,87%
+1076,Male,African American,12th Grade,95%,No,No,English,Yes,Promoted,3.9,Above Grade,No,93%
+1077,Female,Hispanic,9th Grade,80%,Yes,Yes,Spanish,Yes,Promoted,2.9,Below Grade,Yes,72%
+1078,Male,Asian,10th Grade,96%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,89%
+1079,Female,Caucasian,11th Grade,90%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,88%
+1080,Male,African American,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,Above Grade,Yes,86%
+1081,Female,Hispanic,9th Grade,75%,Yes,Yes,Spanish,Yes,Not Promoted,2.8,Below Grade,Yes,68%
+1082,Male,Asian,10th Grade,85%,Yes,Yes,English,Yes,Not Promoted,3.1,On Grade,Yes,78%
+1083,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Not Promoted,3.6,On Grade,No,87%
+1084,Male,African American,12th Grade,80%,Yes,Yes,English,Yes,Not Promoted,3.2,Below Grade,Yes,75%
+1085,Female,Hispanic,9th Grade,98%,No,No,Spanish,Yes,Not Promoted,3.9,Above Grade,Yes,93%
+1086,Male,Asian,10th Grade,93%,No,Yes,English,Yes,Not Promoted,3.7,On Grade,Yes,89%
+1087,Female,Caucasian,11th Grade,65%,Yes,Yes,English,Yes,Not Promoted,2.5,Below Grade,Yes,58%
+1088,Male,African American,12th Grade,85%,No,Yes,English,Yes,Not Promoted,3.5,On Grade,Yes,82%
+1089,Female,Hispanic,9th Grade,95%,No,Yes,Spanish,Yes,Not Promoted,3.6,On Grade,No,89%
+1090,Male,Asian,10th Grade,90%,Yes,Yes,English,Yes,Not Promoted,3.4,On Grade,Yes,85%
+1091,Female,Caucasian,11th Grade,80%,No,Yes,English,Yes,Not Promoted,3.1,Below Grade,Yes,72%
+1092,Male,African American,12th Grade,75%,Yes,Yes,English,Yes,Not Promoted,2.9,Below Grade,Yes,70%
+1093,Female,Hispanic,9th Grade,90%,Yes,Yes,Spanish,Yes,Not Promoted,3.3,On Grade,Yes,82%
+1094,Male,Asian,10th Grade,85%,No,Yes,English,Yes,Not Promoted,3.2,On Grade,Yes,80%
+1095,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Not Promoted,3.7,On Grade,Yes,87%
+1096,Male,African American,12th Grade,95%,No,Yes,English,Yes,Not Promoted,3.9,Above Grade,No,93%
+1097,Female,Hispanic,9th Grade,80%,Yes,Yes,Spanish,Yes,Not Promoted,2.9,Below Grade,Yes,72%
+1098,Male,Asian,10th Grade,96%,No,Yes,English,Yes,Not Promoted,3.6,On Grade,Yes,89%
+1099,Female,Caucasian,11th Grade,90%,No,Yes,English,Yes,Not Promoted,3.8,On Grade,Yes,88%
+1100,Male,African American,12th Grade,88%,No,Yes,English,Yes, Promoted,3.5,Above Grade,Yes,86%
+1101,Male,Caucasian,9th Grade,85%,No,No,English,Yes,Promoted,3.1,On Grade,No,76%
+1102,Female,African American,10th Grade,90%,Yes,Yes,English,Yes,Promoted,3.3,On Grade,Yes,82%
+1103,Male,Hispanic,11th Grade,75%,Yes,Yes,English,Yes,Not Promoted,2.9,Below Grade,Yes,70%
+1104,Female,Asian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,88%
+1105,Male,Caucasian,9th Grade,80%,Yes,Yes,English,Yes,Not Promoted,2.8,Below Grade,Yes,68%
+1106,Female,African American,10th Grade,92%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,87%
+1107,Male,Hispanic,11th Grade,85%,Yes,Yes,English,Yes,Promoted,3.2,Below Grade,Yes,75%
+1108,Female,Asian,12th Grade,98%,No,No,English,Yes,Promoted,3.9,Above Grade,Yes,93%
+1109,Male,Caucasian,9th Grade,93%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,89%
+1110,Female,African American,10th Grade,65%,Yes,Yes,English,Yes,Not Promoted,2.5,Below Grade,Yes,58%
+1111,Male,Hispanic,11th Grade,85%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,82%
+1112,Female,Asian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,88%
+1113,Male,Caucasian,9th Grade,80%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1114,Female,African American,10th Grade,89%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,87%
+1115,Male,Hispanic,11th Grade,90%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,89%
+1116,Female,Asian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,Above Grade,Yes,86%
+1117,Male,Caucasian,9th Grade,96%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,89%
+1118,Female,African American,10th Grade,80%,Yes,Yes,English,Yes,Not Promoted,3.1,Below Grade,Yes,72%
+1119,Male,Hispanic,11th Grade,90%,Yes,Yes,English,Yes,Promoted,3.2,On Grade,Yes,80%
+1120,Female,Asian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.2,On Grade,Yes,80%
+1221,Male,Hispanic,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,On Grade,No,88%
+1222,Female,African American,10th Grade,80%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,75%
+1223,Male,Caucasian,11th Grade,88%,No,Yes,English,Yes,Promoted,3.5,Above Grade,Yes,85%
+1224,Female,Asian,12th Grade,95%,No,Yes,English,Yes,Promoted,4,Above Grade,No,93%
+1225,Male,Hispanic,9th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,No,86%
+1226,Female,African American,10th Grade,75%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,72%
+1227,Male,Caucasian,11th Grade,90%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,88%
+1228,Female,Asian,12th Grade,98%,No,Yes,English,Yes,Promoted,4,Above Grade,No,96%
+1229,Male,Hispanic,9th Grade,88%,Yes,Yes,English,Yes,Promoted,3.5,On Grade,Yes,82%
+1230,Female,African American,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.2,On Grade,Yes,80%
+1231,Male,Caucasian,11th Grade,80%,No,Yes,English,Yes,Promoted,3.1,Below Grade,Yes,78%
+1232,Female,Asian,12th Grade,93%,No,Yes,English,Yes,Promoted,3.8,On Grade,No,90%
+1233,Male,Hispanic,9th Grade,90%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,87%
+1234,Female,African American,10th Grade,82%,Yes,Yes,English,Yes,Promoted,3,On Grade,Yes,77%
+1235,Male,Caucasian,11th Grade,93%,No,Yes,English,Yes,Promoted,3.8,Above Grade,Yes,89%
+1236,Female,Asian,12th Grade,98%,No,Yes,English,Yes,Promoted,4,Above Grade,No,95%
+1237,Male,Hispanic,9th Grade,96%,No,Yes,English,Yes,Promoted,3.9,Above Grade,Yes,92%
+1238,Female,African American,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.1,On Grade,Yes,81%
+1239,Male,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.2,On Grade,Yes,79%
+1240,Female,Asian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,91%
+1241,Male,Caucasian,9th Grade,93%,No,Yes,English,Yes,Promoted,3.6,On Grade,No,89%
+1242,Female,Caucasian,10th Grade,87%,Yes,Yes,English,Yes,Promoted,3.2,On Grade,Yes,83%
+1243,Male,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,Yes,92%
+1244,Female,Caucasian,12th Grade,98%,No,Yes,English,Yes,Promoted,4,Above Grade,No,96%
+1245,Male,Caucasian,9th Grade,90%,No,Yes,English,Yes,Promoted,3.7,On Grade,Yes,87%
+1246,Female,Caucasian,10th Grade,80%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,76%
+1247,Male,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,Above Grade,Yes,89%
+1248,Female,Caucasian,12th Grade,96%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,93%
+1249,Male,Caucasian,9th Grade,86%,Yes,Yes,English,Yes,Promoted,3.3,On Grade,Yes,82%
+1250,Female,Caucasian,10th Grade,82%,Yes,Yes,English,Yes,Promoted,3.1,On Grade,Yes,78%
+1251,Male,Caucasian,11th Grade,78%,No,Yes,English,Yes,Promoted,3,Below Grade,Yes,75%
+1252,Female,Caucasian,12th Grade,93%,No,Yes,English,Yes,Promoted,3.8,On Grade,No,90%
+1253,Male,Caucasian,9th Grade,89%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,86%
+1254,Female,Caucasian,10th Grade,85%,Yes,Yes,English,Yes,Promoted,3.2,On Grade,Yes,81%
+1255,Male,Caucasian,11th Grade,91%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,88%
+1256,Female,Caucasian,12th Grade,97%,No,Yes,English,Yes,Promoted,4,Above Grade,No,95%
+1257,Male,Caucasian,9th Grade,94%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,91%
+1258,Female,Caucasian,10th Grade,84%,Yes,Yes,English,Yes,Promoted,3.1,On Grade,Yes,80%
+1259,Male,Caucasian,11th Grade,83%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1260,Female,Caucasian,12th Grade,94%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,91%
+1261,Male,Caucasian,9th Grade,75%,Yes,Yes,Spanish,No,Promoted,2.9,Below Grade,No,72%
+1262,Female,Caucasian American,10th Grade,88%,Yes,Yes,English,Yes,Promoted,3.1,On Grade,No,85%
+1263,Male,Caucasian,11th Grade,92%,No,No,English,Yes,Promoted,3.7,Above Grade,Yes,89%
+1264,Female,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1265,Male,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,79%
+1266,Female,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1267,Male,Asian,11th Grade,85%,No,No,English,Yes,Promoted,3.3,On Grade,Yes,82%
+1268,Female,Caucasian,12th Grade,89%,No,Yes,English,Yes,Promoted,3.8,On Grade,No,86%
+1269,Male,Caucasian,9th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,89%
+1270,Female,Caucasian,10th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1271,Male,Caucasian,11th Grade,88%,No,No,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1272,Female,Caucasian,12th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1273,Male,Caucasian,9th Grade,86%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,83%
+1274,Female,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,89%
+1275,Male,Caucasian,11th Grade,95%,No,No,English,Yes,Promoted,3.9,Above Grade,No,92%
+1276,Female,Caucasian,12th Grade,82%,Yes,Yes,English,Yes,Promoted,3.1,On Grade,No,79%
+1277,Male,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1278,Female,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1279,Male,Caucasian,11th Grade,89%,No,No,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1280,Female,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1281,Female,Caucasian,9th Grade,90%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,87%
+1282,Male,Caucasian,10th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1283,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1284,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1285,Female,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1286,Male,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1287,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1288,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1289,Female,Caucasian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1290,Male,Caucasian,10th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1291,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1292,Male,Caucasian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1293,Female,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1294,Male,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1295,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1296,Male,Caucasian,12th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1297,Female,Caucasian,9th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1298,Male,Caucasian,10th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1299,Female,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1300,Male,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1301,Female,Caucasian,9th Grade,90%,No,Yes,Spanish,No,Promoted,3.6,On Grade,No,87%
+1302,Male,Caucasian,10th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1303,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1304,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1305,Female,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1306,Male,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1307,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1308,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1309,Female,Caucasian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1310,Male,Caucasian,10th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1311,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1312,Male,Caucasian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1313,Female,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1314,Male,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1315,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1316,Male,Caucasian,12th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1317,Female,Caucasian,9th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1318,Male,Caucasian,10th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1319,Female,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1320,Male,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1321,Female,Caucasian,9th Grade,90%,No,Yes,English,Yes,Promoted,3.6,On Grade,No,87%
+1322,Male,Caucasian,10th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1323,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1324,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1325,Female,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1326,Male,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1327,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1328,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1329,Female,Caucasian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1330,Male,Caucasian,10th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1331,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1332,Male,Caucasian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1333,Female,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1334,Male,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1335,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1336,Male,Caucasian,12th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1337,Female,Caucasian,9th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1338,Male,Caucasian,10th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1339,Female,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1340,Male,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1341,Female,Caucasian,9th Grade,90%,No,Yes,Spanish,No,Promoted,3.6,On Grade,No,87%
+1342,Male,Caucasian,10th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1343,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1344,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1345,Female,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1346,Male,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1347,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1348,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1349,Female,Caucasian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1350,Male,Caucasian,10th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1351,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1352,Male,Caucasian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1353,Female,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1354,Male,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1355,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1356,Male,Caucasian,12th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1357,Female,Caucasian,9th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1358,Male,Caucasian,10th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1359,Female,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1360,Male,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1341,Female,Caucasian,9th Grade,90%,No,Yes,Spanish,No,Promoted,3.6,On Grade,No,87%
+1342,Male,Caucasian,10th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1343,Female,Caucasian,11th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1344,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1345,Female,Caucasian,9th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1346,Male,Caucasian,10th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1347,Female,Caucasian,11th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1348,Male,Caucasian,12th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1349,Female,Caucasian,9th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1350,Male,Caucasian,10th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1351,Female,Caucasian,11th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1352,Male,Caucasian,12th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1353,Female,Caucasian,9th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1354,Male,Caucasian,10th Grade,76%,Yes,Yes,English,Yes,Promoted,2.8,Below Grade,Yes,73%
+1355,Female,Caucasian,11th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1356,Male,Caucasian,12th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1357,Female,Caucasian,9th Grade,75%,Yes,Yes,English,Yes,Promoted,2.9,Below Grade,Yes,72%
+1358,Male,Caucasian,10th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1359,Female,Caucasian,11th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1360,Male,Caucasian,12th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1361,Male,Caucasian,7th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1362,Female,Caucasian,8th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1363,Male,Caucasian,6th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1364,Female,Caucasian,7th Grade,75%,Yes,Yes,English,Yes,Retained,2.9,Below Grade,Yes,72%
+1365,Male,Caucasian,8th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1366,Female,Caucasian,6th Grade,92%,No,Yes,English,Yes,Promoted,3.7,Above Grade,No,89%
+1367,Male,Caucasian,7th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1368,Female,Caucasian,8th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1369,Male,Caucasian,6th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1370,Female,Caucasian,7th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,86%
+1371,Male,Caucasian,8th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1372,Female,Caucasian,6th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1373,Male,Caucasian,7th Grade,76%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,73%
+1374,Female,Caucasian,8th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1375,Male,Caucasian,6th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1376,Female,Caucasian,7th Grade,75%,Yes,Yes,English,Yes,Retained,2.9,Below Grade,Yes,72%
+1377,Male,Caucasian,8th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1378,Female,Caucasian,6th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1379,Male,Caucasian,7th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1380,Female,Caucasian,8th Grade,88%,No,Yes,English,Yes,Promoted,3.6,On Grade,Yes,85%
+1381,Male,Hispanic,6th Grade,90%,No,Yes,Spanish,Yes,Retained,2.9,Below Grade,Yes,76%
+1382,Female,Black,7th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,68%
+1383,Male,Asian,8th Grade,95%,No,No,English,Yes,Promoted,3.9,Above Grade,No,91%
+1384,Female,Caucasian,6th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,83%
+1385,Male,Hispanic,7th Grade,88%,No,Yes,Spanish,Yes,Promoted,3.5,On Grade,Yes,85%
+1386,Female,Black,8th Grade,76%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,72%
+1387,Male,Caucasian,6th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,88%
+1388,Female,Hispanic,7th Grade,89%,No,Yes,Spanish,Yes,Promoted,3.6,On Grade,Yes,86%
+1389,Male,Black,8th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1390,Female,Asian,6th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1391,Male,Caucasian,7th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,88%
+1392,Female,Hispanic,8th Grade,85%,No,Yes,Spanish,Yes,Promoted,3.4,On Grade,Yes,82%
+1393,Male,Black,6th Grade,76%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,73%
+1394,Female,Caucasian,7th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1395,Male,Hispanic,8th Grade,92%,No,Yes,Spanish,Yes,Promoted,3.8,On Grade,Yes,89%
+1396,Female,Black,6th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,68%
+1397,Male,Caucasian,7th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1398,Female,Hispanic,8th Grade,82%,No,Yes,Spanish,Yes,Promoted,3.3,On Grade,Yes,79%
+1399,Male,Black,6th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,91%
+1400,Female,Asian,7th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1401,Male,Caucasian,6th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,92%
+1402,Female,Caucasian,7th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1403,Male,Caucasian,8th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1404,Female,Caucasian,6th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,68%
+1405,Male,Caucasian,7th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1406,Female,Caucasian,8th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1407,Male,Caucasian,6th Grade,76%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,73%
+1408,Female,Caucasian,7th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1409,Male,Caucasian,8th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1410,Female,Caucasian,6th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,68%
+1411,Male,Caucasian,7th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1412,Female,Caucasian,8th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1413,Male,Caucasian,6th Grade,95%,No,Yes,English,Yes,Promoted,3.9,Above Grade,No,91%
+1414,Female,Caucasian,7th Grade,88%,No,Yes,English,Yes,Promoted,3.5,On Grade,Yes,85%
+1415,Male,Caucasian,8th Grade,82%,No,Yes,English,Yes,Promoted,3.3,On Grade,Yes,79%
+1416,Female,Caucasian,6th Grade,75%,Yes,Yes,English,Yes,Retained,2.5,Below Grade,Yes,68%
+1417,Male,Caucasian,7th Grade,92%,No,Yes,English,Yes,Promoted,3.8,On Grade,Yes,89%
+1418,Female,Caucasian,8th Grade,85%,No,Yes,English,Yes,Promoted,3.4,On Grade,Yes,82%
+1419,Male,Caucasian,6th Grade,76%,Yes,Yes,English,Yes,Retained,2.8,Below Grade,Yes,73%
+1420,Female,Caucasian,7th Grade,89%,No,Yes,English,Yes,Promoted,3.7,Above Grade,Yes,86%
+1302,Female,White,8th,95%,No,No,English,Yes,Promoted,3,Above Grade,No,86%
+1303,Male,White,7th,96%,No,No,English,Yes,Promoted,4,On Grade,Yes,91%
+1304,Female,White,8th,92%,No,Yes,English,Yes,Promoted,4,On Grade,No,82%
+1305,Male,White,8th,93%,No,No,English,Yes,Promoted,2,Below Grade,Yes,76%
+1306,Female,White,7th,97%,No,No,English,Yes,Promoted,3,Above Grade,No,89%
+1307,Male,White,7th,90%,Yes,Yes,English,Yes,Promoted,2,Below Grade,Yes,75%
+1308,Female,White,8th,94%,No,Yes,English,Yes,Promoted,4,On Grade,Yes,84%
+1309,Male,White,7th,99%,No,No,English,Yes,Promoted,3,Above Grade,No,90%
+1310,Female,White,7th,96%,No,Yes,English,Yes,Promoted,4,On Grade,No,83%
+1311,Male,White,8th,95%,No,No,English,Yes,Promoted,3,Above Grade,No,87%
+1312,Female,White,7th,91%,No,Yes,English,Yes,Promoted,4,On Grade,No,80%
+1313,Male,White,8th,98%,No,No,English,Yes,Promoted,4,On Grade,Yes,92%
+1314,Female,White,7th,93%,No,Yes,English,Yes,Promoted,3,Above Grade,Yes,86%
+1315,Male,White,8th,96%,No,No,English,Yes,Promoted,2,Below Grade,No,78%
+1316,Female,White,7th,90%,Yes,Yes,English,Yes,Promoted,3,Above Grade,Yes,83%
+1317,Male,White,7th,97%,No,No,English,Yes,Promoted,4,On Grade,No,89%
+1318,Female,White,8th,94%,No,Yes,English,Yes,Promoted,3,Above Grade,Yes,85%
+1319,Male,White,7th,91%,No,Yes,English,Yes,Promoted,4,On Grade,No,80%
+1320,Female,White,8th,99%,No,No,English,Yes,Promoted,4,On Grade,Yes,93%
+1321,Male,White,7th,92%,No,Yes,English,Yes,Promoted,3,Above Grade,No,84%
