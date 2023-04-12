@@ -1,4 +1,4 @@
-# data_analysis_fake_edu_data
+# data_analysis_synthetic_edu_data
 
 ## Table of Contents
 
