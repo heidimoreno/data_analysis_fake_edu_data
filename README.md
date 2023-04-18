@@ -6,6 +6,7 @@
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Results and Discussion](#results-and-discussion)
+- [Fairness Evaluation](#fairness-evaluation)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,6 +30,10 @@ This notebook is designed to be used as a guide for analyzing a similar educatio
 
 After analyzing the dataset and creating a decision tree model using scikit-learn, we found that the following variables were the most important in predicting student promotion: whether a student was case managed, their attendance rate, whether or not they were at-risk of dropping out, and identifying as male. These variables could be helpful moving forward in identifying students who are at risk of not being promoted to the next grade.
 
+## Fairness Evaluation
+
+We conducted a fairness evaluation of the model using two metrics: equalized odds difference and impact ratio. The equalized odds difference measures the difference in true positive rates and false positive rates between the protected group (in this case, female students) and the unprotected group (male students). The impact ratio measures the ratio of the false positive rate of the protected group to the false positive rate of the unprotected group. Our analysis showed that the model had a higher false positive rate for female students than male students, indicating potential gender bias in the model.
+
 ## Future Work
 
 While this notebook provides a basic framework for analyzing an educational dataset and creating a decision tree model, there are many ways to improve upon this work. Some possible avenues for future work include:
@@ -36,6 +41,7 @@ While this notebook provides a basic framework for analyzing an educational data
 - Incorporating additional variables into the model
 - Using more advanced machine learning techniques such as random forests or neural networks
 - Collecting more observations to improve the accuracy of the model
+- Further exploring and addressing potential biases in the model through additional fairness evaluations and adjustments to the model
 
 ## Contributing
 
