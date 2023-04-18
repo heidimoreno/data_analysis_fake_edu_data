@@ -13,7 +13,7 @@
 
 ## Project Description
 
-This Jupyter Notebook presents an analysis of a fictional educational dataset including the following data: ID, Gender, Race, Grade, Attendance Rate, Free or Reduced Lunch, Primary Language, Lives with Parent/Guardian, Promoted, SEL Score, Reading Level, Case Managed, and Average Grade. While the data isn't real, and there could be many more variables to factor into a real predictive model for student-level education outcomes, this project is being used with the goal of creating a basic predictive model to determine which of the included variables are significant in predicting if a given student was promoted or retained. This dataset consists of 657 observations across 14 columns/variables and includes both continuous and categorical variables.
+This project presents an analysis of a fictional educational dataset including the following data: ID, Gender, Race, Grade, Attendance Rate, Free or Reduced Lunch, Primary Language, Lives with Parent/Guardian, Promoted, SEL Score, Reading Level, Case Managed, and Average Grade. While the data isn't real, and there could be many more variables to factor into a real predictive model for student-level education outcomes, this project is being used with the goal of creating a basic predictive model to determine which of the included variables are significant in predicting if a given student was promoted or retained. This dataset consists of 657 observations across 14 columns/variables and includes both continuous and categorical variables.
 
 ## Installation and Setup
 
