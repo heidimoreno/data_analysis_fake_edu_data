@@ -32,7 +32,7 @@ After analyzing the dataset and creating a decision tree model using scikit-lear
 
 ## Fairness Evaluation
 
-A fairness evaluation of the model was conducted using two metrics: equalized odds difference and impact ratio. The equalized odds difference measures the difference in true positive rates and false positive rates between the protected group (in this case, female students) and the unprotected group (male students). The impact ratio measures the ratio of the false positive rate of the protected group to the false positive rate of the unprotected group. Our analysis showed that the model had a higher false positive rate for female students than male students, indicating potential gender bias in the model.
+A fairness evaluation of the model was started using two metrics: equalized odds difference and impact ratio. The equalized odds difference measures the difference in true positive rates and false positive rates between the protected group (in this case, female students) and the unprotected group (male students). The impact ratio measures the ratio of the false positive rate of the protected group to the false positive rate of the unprotected group. Our analysis showed that the model had a higher false positive rate for female students than male students, indicating potential gender bias in the model.
 
 ## Future Work
 
